@@ -1,0 +1,2 @@
+- work on PPT (see comment in my-portfolio.md)
+- work on star stories (to go in PPT?) in each of their .md files
